@@ -1,10 +1,4 @@
 /*
-Group Members
-    Clarence Lucius - 1046776
-    Ezra Minty      - 1048091
-    Safrina Ali     - 1041627
-
-
 Documentation
 
     show
@@ -25,10 +19,10 @@ Documentation
 
     help
         Process - To assist the user, the software displays a list of available commands, along with descriptions.
-        Operation - The program displays the command selected by user, which is included by the command word (e.g. ìstockî)
+        Operation - The program displays the command selected by user, which is included by the command word (e.g. ‚Äústock‚Äù)
 
     commit
-        Input - The ìcommitî command, cannot be called by the user. It is, however, within the written program and could be used in later scenarios.
+        Input - The ‚Äúcommit‚Äù command, cannot be called by the user. It is, however, within the written program and could be used in later scenarios.
         Process - This function might serve as a stand-in for later development or additional features. It just ends the program in its current iteration.
         Output - It will display future developments made to the software/program.
 
